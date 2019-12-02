@@ -114,5 +114,6 @@ if(sayi<=1){
 break;}
 }
 getch();
+ // kaynakça: http://www.mmsrn.com/c-dili-ile-disaridan-girilen-bir-sayiyi-roma-rakamlarina-cevirmek/
 return 0; 
 }
